@@ -1,0 +1,15 @@
+.container{
+  padding: 4vw;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  /*z-index: 1;*/
+  text-align: center;
+  top: 30%;
+  left: 35%;
+}
+
+.title{
+  font-size: 3em;
+  margin-bottom: 5%;
+  color: orange;
+}
