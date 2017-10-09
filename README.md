@@ -1,5 +1,4 @@
 
-## Real Time Chat
+# Overchat
 
-# Chat web app using NodeJS+ ReactJS + SocketIO
-# Started on 06.25.17
+Real time chat web app using NodeJS, ReactJS, and SocketIO  (Started on 06.25.17)
